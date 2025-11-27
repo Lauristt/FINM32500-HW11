@@ -26,5 +26,4 @@ jobs:
 
       - name: Run tests
         run: |
-          python -m pytest workflows/test_pipeline.py
-
+          pytest workflows/test_pipeline.py
