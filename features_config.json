@@ -1,0 +1,21 @@
+{
+    "features": [
+        "return_1d",
+        "return_3d",
+        "return_5d",
+        "log_return_1d",
+        "sma_5",
+        "sma_10",
+        "close_over_sma5",
+        "close_over_sma10",
+        "sma_spread_5_10",
+        "volatility_5d",
+        "rsi_14",
+        "macd",
+        "macd_signal",
+        "macd_hist",
+        "log_volume",
+        "volume_change_1d"
+    ],
+    "label": "direction"
+}
